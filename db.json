@@ -1,7 +1,10 @@
 {
-  "tweet":[],
-  "user":[],
-  "post":[]
+  
+  "mock":{
+    "user":[],
+    "post":[]
+
+  
 
 
 
