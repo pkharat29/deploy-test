@@ -1,49 +1,9 @@
 {
-  "users": [
-   
-    {
-      "image_url": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
-      "book_name": "pk",
-      "author": "Jps",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1269,
-      "borrowed": false,
-      "id": 14
-    },
-    {
-      "image_url": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
-      "book_name": "jitu",
-      "author": "albert",
-      "genre": "Science",
-      "edition": "2020",
-      "publisher": "kkk",
-      "cost": "12750",
-      "borrowed": false,
-      "id": 13
-    },
-    {
-      "image_url": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
-      "book_name": "VAIBHAV",
-      "author": "Albert",
-      "genre": "Science",
-      "edition": "2020",
-      "publisher": "don",
-      "cost": "999",
-      "borrowed": false,
-      "id": 12
-    },
-    {
-      "image_url": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
-      "book_name": "manmakers",
-      "author": "chandra",
-      "genre": "Science",
-      "edition": "2019",
-      "publisher": "masai",
-      "cost": "568",
-      "borrowed": false,
-      "id": 11
-    }
-  ]
+  "tweet":[],
+  "user":[],
+  "post":[]
+
+
+
+
 }
