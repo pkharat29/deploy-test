@@ -2,29 +2,63 @@
   
   
     "mobile":[],
-    "job":[
+    "users":[
         {
-            "company": "Ellette",
-            "postedAt": "2021-03-30",
-            "city": "Gangtok",
-            "location": "American Samoa",
-            "role": "Frontend",
-            "level": "Junior",
-            "contract": "Full Time",
-            "position": " Backend Developer",
-            "language": "Java"
-        },
-        {
-            "company": "Jinny",
-            "postedAt": "2021-09-09",
-            "city": "Ludhiana",
-            "location": "Belgium",
-            "role": "FullStack",
-            "level": "Junior",
-            "contract": "Full Time",
-            "position": "Junior Frontend Developer",
-            "language": "Java"
-        }
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+                "genre": "fiction",
+                "edition": "2021",
+                "publisher": "Bloomsbury",
+                "cost": 1299,
+                "borrowed": false
+          },
+          {
+            "image_url": "https://images.pexels.com/photos/1112048/pexels-photo-1112048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "book_name": "‘The India Story’",
+            "author": "Bimal",
+                "genre": "fiction",
+                "edition": "2022",
+                "publisher": "hemu",
+                "cost": 1500,
+                "borrowed": false
+          },
+
+          {
+            "image_url": "https://images.pexels.com/photos/1112048/pexels-photo-1112048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "book_name": "‘Indian’",
+            "author": "Pratik",
+                "genre": "History",
+                "edition": "2020",
+                "publisher": "Pratik",
+                "cost": 1000,
+                "borrowed": false
+          },
+
+          {
+            "image_url": "https://images.pexels.com/photos/1112048/pexels-photo-1112048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "book_name": "Queen of Fire",
+            "author": "Kharat",
+                "genre": "Science",
+                "edition": "2021",
+                "publisher": "Akshay",
+                "cost": 500,
+                "borrowed": false
+          },
+
+
+          {
+            "image_url": "https://images.pexels.com/photos/1112048/pexels-photo-1112048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "book_name": "Hear Yourself",
+            "author": "Rohit",
+                "genre": "Science",
+                "edition": "2020",
+                "publisher": "Verma",
+                "cost": 980,
+                "borrowed": false
+          }
+
+
     ]
     
   
